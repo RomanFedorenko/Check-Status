@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2010
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CheckStatusApp", "CheckStatusApp\CheckStatusApp.csproj", "{1436C03E-65C1-425C-A1D7-1E184C0C3C1B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1436C03E-65C1-425C-A1D7-1E184C0C3C1B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1436C03E-65C1-425C-A1D7-1E184C0C3C1B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1436C03E-65C1-425C-A1D7-1E184C0C3C1B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1436C03E-65C1-425C-A1D7-1E184C0C3C1B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {62F7F871-22AC-4C4C-8C1C-8FE9484C8F77}
+	EndGlobalSection
+EndGlobal
